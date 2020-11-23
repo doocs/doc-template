@@ -2,7 +2,7 @@
 
 # Doc-Type Repository Template
 
-[![license](https://badgen.net/github/license/doocs/doc-template?color=green)](https://github.com/doocs/doc-template/blob/master/LICENSE)
+[![license](https://badgen.net/github/license/doocs/doc-template?color=green)](https://github.com/doocs/doc-template/blob/main/LICENSE)
 [![stars](https://badgen.net/github/stars/doocs/doc-template)](https://github.com/doocs/doc-template/stargazers)
 [![contributors](https://badgen.net/github/contributors/doocs/doc-template)](https://github.com/doocs/doc-template/graphs/contributors)
 [![help-wanted](https://badgen.net/github/label-issues/doocs/doc-template/help%20wanted/open)](https://github.com/doocs/doc-template/labels/help%20wanted)
